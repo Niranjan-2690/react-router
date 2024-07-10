@@ -7,7 +7,7 @@ function Fsd(){
     const params = useParams();
 
     useEffect(()=>{
-        fetch("http://localhost:5173/blog.json")
+        fetch("https://guvi-react-router-dom.netlify.app/blog.json")
         .then((response)=>response.json())
         .then((result)=>setBlogs(result.data.filter((d)=> d.subcategory === params.subcategory)))
     }, [params])

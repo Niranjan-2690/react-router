@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Home(){
     const [blogs, setBlogs] = useState([])
     useEffect(()=>{
-        fetch("http://localhost:5173/blog.json")
+        fetch("https://guvi-react-router-dom.netlify.app/blog.json")
         .then((response)=>response.json())
         .then((result)=>setBlogs(result.data))
     }, [])
