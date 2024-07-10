@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "id" : 1,
+            "title" : "Best Full-Stack Development Project Ideas in 2024",
+            "category" : "blog",
+            "subcategory" : "Full-stack-development",
+            "image" : "../images/fsd/fsd1.jpg",
+            "description" : "When you give your resume to any potential recruiter, the first thing that they check apart from your education is the number..."
+        },
+        {
+            "id" : 2,
+            "title" : "5 Tips For Secure Coding Practices in Full Stack Development",
+            "category" : "blog",
+            "subcategory" : "Full-stack-development",
+            "image" : "../images/fsd/fsd2.jpg",
+            "description" : "With the rise in technology, there is a rise in security concerns as well. Every coin has two sides, though full stack..."
+        },
+        {
+            "id" : 3,
+            "title" : "Exploring the Influence of AI and Machine Learning in Full Stack Development [2024]",
+            "category" : "blog",
+            "subcategory" : "Full-stack-development",
+            "image" : "../images/fsd/fsd3.jpg",
+            "description" : "In the rapidly evolving world of technology, Artificial Intelligence (AI) is a game-changer for full stack development, automating..."
+        },
+        {
+            "id" : 4,
+            "title" : "Advanced Debugging Techniques For Full Stack Development [2024]",
+            "category" : "blog",
+            "subcategory" : "Full-stack-development",
+            "image" : "../images/fsd/fsd4.jpg",
+            "description" : "Debugging, the vital process of identifying and resolving bugs, errors, or defects in a software system, is an indispensable skill..."
+        },
+        {
+            "id" : 5,
+            "title" : "Transitioning From Front End to Full Stack Development: A Guide for Developers",
+            "category" : "blog",
+            "subcategory" : "Full-stack-development",
+            "image" : "../images/fsd/fsd5.jpg",
+            "description" : "Transitioning from front-end to full stack development is a bold step that opens up many possibilities in technology..."
+        },
+        {
+            "id" : 6,
+            "title" : "The Role of DevOps in Full Stack Development: A Complete Guide",
+            "category" : "blog",
+            "subcategory" : "Full-stack-development",
+            "image" : "../images/fsd/fsd6.jpg",
+            "description" : "In the tech industry, the combination of full-stack development and DevOps is significantly changing how software is developed..."
+        },
+        {
+            "id" : 7,
+            "title" : "Understanding the Data Science Process: A Comprehensive Guide [2024]",
+            "category" : "blog",
+            "subcategory" : "DATA-SCIENCE",
+            "image" : "../images/ds/ds1.jpg",
+            "description" : "Now that everything is becoming wireless and technology is booming at lightning speed, as a by-product, a lot of data is..."
+        },
+        {
+            "id" : 8,
+            "title" : "9 Best Data Science Projects with Source Code",
+            "category" : "blog",
+            "subcategory" : "DATA-SCIENCE",
+            "image" : "../images/ds/ds2.jpg",
+            "description" : "In the dynamic world of information technology, data science stands as a beacon of innovation and insight, powering decisions..."
+        },
+        {
+            "id" : 9,
+            "title" : "The Relationship Between Data Science and Artificial Intelligence",
+            "category" : "blog",
+            "subcategory" : "DATA-SCIENCE",
+            "image" : "../images/ds/ds3.jpg",
+            "description" : "In today’s data-driven world, extracting meaningful insights from vast datasets is essential. This is where Data Science and Artificial Intelligence (AI)..."
+        },
+        {
+            "id" : 10,
+            "title" : "What is Data Science? Important Factors to Learn Before Getting Started [2024]",
+            "category" : "blog",
+            "subcategory" : "DATA-SCIENCE",
+            "image" : "../images/ds/ds4.jpg",
+            "description" : "The importance of data has been surmounted to a whole new level where it is considered as equally important as gold these days..."
+        },
+        {
+            "id" : 11,
+            "title" : "How Is Cyber Security Important To Our Lives?",
+            "category" : "blog",
+            "subcategory" : "CYBER-SECURITY",
+            "image" : "../images/cs/cs1.jpg",
+            "description" : "Cybersecurity is an exact solution that is sought either by a billionaire with a massive business or an innovator with a small..."
+        },
+        {
+            "id" : 12,
+            "title" : "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+            "category" : "blog",
+            "subcategory" : "CYBER-SECURITY",
+            "image" : "../images/cs/cs2.jpg",
+            "description" : "Cybersecurity & Ethical hacking and have been key in making sure that your data online is secure, users are authenticated..."
+        },
+        {
+            "id" : 13,
+            "title" : "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+            "category" : "blog",
+            "subcategory" : "CYBER-SECURITY",
+            "image" : "../images/cs/cs3.jpg",
+            "description" : "In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills are a prerequisite for success..."
+        },
+        {
+            "id" : 14,
+            "title" : "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
+            "category" : "blog",
+            "subcategory" : "CYBER-SECURITY",
+            "image" : "../images/cs/cs4.webp",
+            "description" : "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well, it depends on many..."
+        },
+        {
+            "id" : 15,
+            "title" : "8 Different Types of Cybersecurity and Threats Involved",
+            "category" : "blog",
+            "subcategory" : "CYBER-SECURITY",
+            "image" : "../images/cs/cs5.webp",
+            "description" : "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from cyberattacks..."
+        },
+        {
+            "id" : 16,
+            "title" : "A Guide To Learning Blockchain Technology From Scratch",
+            "category" : "blog",
+            "subcategory" : "BLOCKCHAIN",
+            "image" : "../images/bs/bs1.jpeg",
+            "description" : "Have you ever wondered about the technology that powers cryptocurrencies like Bitcoin and Ethereum? Are you intrigued by..."
+        },
+        {
+            "id" : 17,
+            "title" : "Blockchain Developer Resume Guide: 11 Hot Tips to Make It Professional",
+            "category" : "blog",
+            "subcategory" : "BLOCKCHAIN",
+            "image" : "../images/bs/bs2.webp",
+            "description" : "What if I say that blockchain is going to be the next big thing? And why do I say so? Because of its decentralized and secure..."
+        },
+        {
+            "id" : 18,
+            "title" : "Top 8 Blockchain Project Ideas For Students",
+            "category" : "blog",
+            "subcategory" : "BLOCKCHAIN",
+            "image" : "../images/bs/bs3.webp",
+            "description" : "Blockchain technology has garnered significant attention in recent years due to its potential to revolutionize various industries..."
+        }
+    ]  
+}
